@@ -4,7 +4,7 @@ body{
 }
 
 .jumbotron{
-    margin-left: 5%;
+    margin: 5%;
     background-color: aqua;
     padding: 1%;
     border-radius: 5%;
