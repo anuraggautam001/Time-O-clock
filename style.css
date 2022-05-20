@@ -4,10 +4,10 @@ body{
 }
 
 .jumbotron{
-    margin-left: 350px;
+    margin-left: 5%;
     background-color: aqua;
-    padding: 10px;
-    border-radius: 20px;
+    padding: 1%;
+    border-radius: 5%;
     text-align: center;
-    width: 400px;
+    width: 100%;
 }
